@@ -43,10 +43,10 @@ Following this, I developed additional pages dedicated to the state capital and 
 
 6. **Form Creation**:
 
-Added a form on one of the website's pages that includes:<br/>
-Text fields for first name, last name, email address, and email confirmation.<br/>
-A text box for users to submit questions.<br/>
-Placeholders in all fields for user guidance.<br/>
+- Added a form on one of the website's pages that includes:<br/>
+- Text fields for first name, last name, email address, and email confirmation.<br/>
+- A text box for users to submit questions.<br/>
+- Placeholders in all fields for user guidance.<br/>
 
 7. **JavaScript Validation**:
 
