@@ -1,0 +1,111 @@
+/* styles.css */
+
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #444;
+    color: #fff;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+aside {
+    float: right;
+    width: 30%;
+    padding: 20px;
+    background-color: #f4f4f4;
+    margin-left: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Specific Styles */
+a:hover {
+    color: #ff4500; /* Change color on hover */
+}
+
+/* Classes */
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+/* IDs */
+#intro {
+    font-size: 1.2em;
+}
+
+/* Element Selector */
+h2 {
+    color: #333;
+}
+
+/* Class Selector */
+.highlight {
+    background-color: #ffa07a;
+}
+
+/* ID Selector */
+#main-content {
+    font-weight: bold;
+}
+
+/* Image Styles */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Positioning Enhancements */
+.relative-position {
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.absolute-position {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
