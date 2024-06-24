@@ -55,7 +55,8 @@ Ensured the email confirmation field matches the initial email entry through Jav
 9. **Website Deployment**:
 
 Uploaded the entire website to a hosting service, ensuring it included:<br/>
-All HTML pages.<br/>
-External CSS documents.<br/>
-All relevant images.<br/>
+- All HTML pages.<br/>
+- External CSS documents.<br/>
+- JavaScript file. <br/>
+- All relevant images.<br/>
 By meticulously following these steps, I developed and deployed a fully functional, informative, and user-friendly website that showcases various aspects of the selected state and its cities.
