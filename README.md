@@ -5,25 +5,28 @@ For my multipage web development project, I created a comprehensive website cons
 
 1. **Main Page and Additional City Pages**:
 
-I began by designing a main page that introduces the chosen state, serving as the entry point for visitors.
-Following this, I developed additional pages dedicated to the state capital and two other notable cities within the state. Each city's page contains specific information:
-Population: Current population data.
-Incorporation Year: The year the city was officially incorporated.
-Region: The geographical region within the state where the city is located.
-Classification: Whether the city is urban, suburban, or rural.
-Average Income Level: How the city's income level compares to the state average.
-2. Essential Elements on Each Page:
+I began by designing a main page that introduces the chosen state, serving as the entry point for visitors.,<br/>
+Following this, I developed additional pages dedicated to the state capital and two other notable cities within the state. Each city's page contains specific information:<br/>
+- Population: Current population data.
+- Incorporation Year: The year the city was officially incorporated.
+- Region: The geographical region within the state where the city is located.
+- Classification: Whether the city is urban, suburban, or rural.
+- Average Income Level: How the city's income level compares to the state average.
+  
+2. **Essential Elements on Each Page**:
 
-HTML Titles: Each page has a title in the head section, reflecting its specific topic.
-Relevant Images: Each page includes an image related to the content, complete with alternative text for accessibility.
-Navigation Menu: A consistent navigation menu is present on all pages, allowing users to easily move between different sections of the website.
-3. Semantic HTML Elements:
+- **HTML Titles**: Each page has a title in the head section, reflecting its specific topic.
+- **Relevant Images**: Each page includes an image related to the content, complete with alternative text for accessibility.
+- **Navigation Menu**: A consistent navigation menu is present on all pages, allowing users to easily move between different sections of the website.
+  
+3. **Semantic HTML Elements**:
 
-Header: Contains introductory content relevant to the document or a section of it.
-Navigation (nav): Includes links to all other pages within the site.
-Section: Displays the main content of the page.
-Aside: Provides additional information related to the main content.
-4. Additional Website Features:
+- Header: Contains introductory content relevant to the document or a section of it.
+- Navigation (nav): Includes links to all other pages within the site.
+- Section: Displays the main content of the page.
+- Aside: Provides additional information related to the main content.
+  
+4. **Additional Website Features**:
 
 External Link: Included a link that opens an external website in a new tab using the target="_blank" attribute.
 Ordered List: An HTML-coded ordered list with at least three items.
